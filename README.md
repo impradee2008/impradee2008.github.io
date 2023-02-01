@@ -1,2 +1,2 @@
 
-First commitz
+Responsive UI Resume
